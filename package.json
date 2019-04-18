@@ -1,0 +1,14 @@
+{
+  "name": "@sicoob/ngenv",
+  "version": "1.0.0",
+  "description": "biblioteca para criação do arquivo environments a partir das variáveis do S.O.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "publishConfig": {
+    "registry": "http://nexus.sicoob.com.br/repository/npm-sicoob/"
+  },
+  "author": "gilluan.sousa@sicoob.com.br",
+  "license": "ISC"
+}
